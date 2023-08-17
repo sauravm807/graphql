@@ -1,4 +1,4 @@
-const { TestData } = require("./Data");
+const { TestData } = require("../Data");
 const resolvers = {
   Query: {
     getAllData() {
